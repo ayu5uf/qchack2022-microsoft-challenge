@@ -11,4 +11,5 @@ Quantum Image Processing is an fast growing field within the quantum computing s
 
 
 -----------------------ROUGH DRAFT NOTES --------------------------
+
 uses 7 qubits - relatively compact
