@@ -1,4 +1,4 @@
-# Free Form Challenge - Quantum Image processing ("Qu-mongus")
+# Free Form Challenge - Quantum Image processing 
 
 ## Introduction
 This program utilises the Flexible Representation of Quantum Images (also known as [FRQI](https://qiskit.org/textbook/ch-applications/image-processing-frqi-neqr.html)) in order to search for 4x4 patterns in greyscale images.
